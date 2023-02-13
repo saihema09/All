@@ -1,0 +1,3 @@
+name : OPPO 
+version : 12.0
+Ram : 128 gb
